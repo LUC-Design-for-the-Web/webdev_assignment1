@@ -9,7 +9,7 @@ Create a file named **"assignment1.html"** and code the basic html document stru
 
 
 * Draft a mission statement for your site.
-* Identify three goals you hope the site will achieve. [Use the <ol> and <li> tags.]
+* Identify three goals you hope the site will achieve. [Use the ordered list and list item html tags to structure your goals]
 * Identify one site you would like to model the layout of your site after and provide 3-5 sentences on why you chose the site.  The site you decide to model your site after should primarily be a model of how you would like to layout the content of your site.   
 * Please provide a clickable image (the image should be a screenshot or snippet of model site) link that will allow me to navigate to the page.
 Content - Estimate the number of individual Web pages your site will have and provide 2-3 sentence description for each page you will have for your site. Please utilize the paragraph html tag for the description of each page and a heading tag for the page name. (Your site must be more than 5 pages or 5 content areas if you decide to do a single page application)  - Assignment 1 does not have to be five html pages, but your final project submission in week 12 must include 5 or more html pages/content areas)
