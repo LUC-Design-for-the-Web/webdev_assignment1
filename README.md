@@ -33,4 +33,4 @@ Implement good coding practices by commenting your name and date at the top of t
 ## Requirement 4 (Submission and Publishing your project):
 Your project folder will need to be submitted in 2 different ways.  You will need to submit a zipped/compressed folder title "assignment1" to Canvas by the due and and time listed.  You will also need to submit your assignment folder to the issued GitHub repository assignment 1.  Click on the link below to accept your assignment 1 repository.  Please include all images or files that may accompany your assignment within the project folder.
 
-### Github Repository Link - https://classroom.github.com/a/X2K-5k7l
+
