@@ -5,7 +5,7 @@ Assignment 1 is a project proposal and will need to be coded as an HTML page usi
 
 ## Requirement 1 (Project Proposal)
 
-Create a file named **"assignment1.html"** and code the basic html document structure.  Within the <head> of your site, include the required meta tags (charset, keywords, description, viewport, author), the title tag which includes the topic of your site. Within the <body> of your site, include the following content listed in the bullet points below.  When providing the content below, please use the most appropriate tag to provide structure to your content.
+Create a file named **"assignment1.html"** and code the basic html document structure.  Within the ```html <head> ```of your site, include the required meta tags (charset, keywords, description, viewport, author), the title tag which includes the topic of your site. Within the <body> of your site, include the following content listed in the bullet points below.  When providing the content below, please use the most appropriate tag to provide structure to your content.
 
 
 * Draft a mission statement for your site.
