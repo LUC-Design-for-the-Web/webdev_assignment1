@@ -36,15 +36,8 @@ Once you are finished meeting all requirements, you will need to be submit your 
 ### Rubric
 | Criteria           | Description                             | Points |
 | -------------------| --------------------------------------- | ------ |
-| Requirement 1      | 10 or more tags used (4pts)
-                       Includes mission statement (1pt)
-                       Goals of site identifed (3pts)
-                       Model site identified along with clickable image (3pts)
-                       Pages identified with description (2pts)
-                       Target audience identified (2pts)   |   15   |
-| Requirement 2      | Profject foluder includes a folder that contains images (1pt)
-                       File names comply to ISO 9660 standards and proper use of file extensions. Ex. filenames lowercase, no spaces, ect..(1pt) |  2  |
-| Requirement 3      | Site passes validation and use of comments within document (4pts)
-                       Tags properly indented to display parent-child relationship (1pt)     |   5   |
+| Requirement 1      | 10 or more tags used (4pts) <br>Includes mission statement (1pt) <br>Goals of site identifed (3pts) <br>Model site identified along with clickable image (3pts) <br>Pages identified with description (2pts) <br>Target audience identified (2pts)   |   15   |
+| Requirement 2      | Profject foluder includes a folder that contains images (1pt) <br>File names comply to ISO 9660 standards and proper use of file extensions. Ex. filenames lowercase, no spaces, ect..(1pt) |  2  |
+| Requirement 3      | Site passes validation and use of comments within document (4pts) <br>Tags properly indented to display parent-child relationship (1pt)     |   5   |
 | Requirement 4     | Site is properly uploaded to GitHub and link submitted to Sakai |  3   |
 |           |        |**Total Points:   25**   |
