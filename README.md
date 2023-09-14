@@ -33,4 +33,11 @@ Implement good coding practices by commenting your name and date at the top of t
 ## Requirement 4 (Submission and Publishing your project):
 Once you are finished meeting all requirements, you will need to be submit your work to the assigned GitHub repository provided to you by the instructor.  In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Sakai that your assignment has been submitted.
 
-
+### Rubric
+| Criteria           | Description                             | Points |
+| -------------------| --------------------------------------- | ------ |
+| Requirement 1      | 10 or more tags used; includes mission statement; model site identified along with clickable image; pages identified with description; target audience identified   |   15   |
+| Requirement 2      | Profject foluder includes a folder that contains images; file names comply to ISO 9660 standards Ex. file names lowercase, no spaces, ect.. |  2  |
+| Requirement 3      | Site passes validation and use of comments within document.  Tags properly indented to display parent-child relationship       |   5   |
+| Requirement 4     | Site is properly uploaded to GitHub and link submitted to Sakai |  3   |
+|           |        |**Total Points:   25**   |
