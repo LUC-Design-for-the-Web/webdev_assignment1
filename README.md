@@ -31,7 +31,7 @@ The links to W3C is below:
 Implement good coding practices by commenting your name and date at the top of the document and implementing indentation to display parent-child relationships.
 
 ## Requirement 4 (Submission and Publishing your project):
-Once you are finished meeting all requirements, you will need to be submit your work to the assigned GitHub repository provided to you by the instructor.  In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Sakai that your assignment has been submitted.
+Once you are finished meeting all requirements, you will need to be submit your work to the assigned GitHub repository provided to you by the instructor.  In Brightspace, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Brightspace that your assignment has been submitted.
 
 ### Rubric
 | Criteria           | Description                             | Points |
@@ -39,5 +39,5 @@ Once you are finished meeting all requirements, you will need to be submit your 
 | Req. 1 - Project Proposal + HTML document structure    | 10 or more tags used (4pts) <br>Includes mission statement (1pt) <br>Goals of site identified (2pts) <br>Model site identified along with clickable image (3pts) <br>Pages identified with description (2pts) <br>Target audience identified (2pts) <br> Site presents a fixed layout (1pt)   |   15   |
 | Req. 2 - Folder structure Implementation     | Project includes a folder that contains images (1pt) <br>File names comply to ISO 9660 standards and proper use of file extensions. Ex. filenames lowercase, no spaces, ect..(1pt) |  2  |
 | Req. 3 - Validation and Good Coding Standards     | Site passes validation and use of comments within document (4pts) <br>Tags properly indented to display parent-child relationship (1pt)     |   5   |
-| Req. 4 - Submission and Publishing site    | Site is properly uploaded to GitHub and link submitted to Sakai |  3   |
+| Req. 4 - Submission and Publishing site    | Site is properly uploaded to GitHub and link submitted to Brightspace |  3   |
 |           |        |**Total Points:   25**   |
